@@ -14,3 +14,7 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 - GitHub Copilot as an AI coding assistant across the IDE, CLI, and GitHub.
 - GitHub Actions as the automation layer behind repository workflows.
 - Recent GitHub Blog and Changelog stories worth watching.
+
+## Latest GitHub Updates
+
+This section highlights fresh GitHub Blog and GitHub Changelog items that are directly relevant for readers. Updates should be concise, practical, and sourced from `https://github.blog/latest/` or `https://github.blog/changelog/`.
